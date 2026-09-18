@@ -29,18 +29,7 @@ Runs inside the **Discord desktop app** — supports ALL quest types including `
 
 ---
 
-### 2. Browser Script (Video Quests Only)
-Runs in **Discord web** (Edge / Chrome) — only supports `WATCH_VIDEO` quests.
-
-**How to use:**
-1. Open [discord.com](https://discord.com) in your browser
-2. Press `F12` → **Console** tab
-3. Type `allow pasting` → press Enter
-4. Paste the script from [`browser.js`](./browser.js) and press Enter
-
----
-
-### 3. Android Script (Kiwi Browser)
+### 2. Android Script (Kiwi Browser)
 Runs on **Android** using Kiwi Browser — only supports video quests.
 
 **How to use:**
@@ -49,17 +38,6 @@ Runs on **Android** using Kiwi Browser — only supports video quests.
 3. Log in to Discord
 4. Tap ⋮ → **Developer Tools** → **Console**
 5. Paste the script from [`android.js`](./android.js) and press Enter
-
----
-
-## ❓ How to get your Discord token
-
-> Needed for completing quests on a friend's account
-
-1. Open Discord in your browser
-2. Press `F12` → **Network** tab
-3. Click any request to `discord.com/api/...`
-4. Look at **Request Headers** → copy the `Authorization` value
 
 ---
 
