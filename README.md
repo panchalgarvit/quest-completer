@@ -25,7 +25,7 @@ Runs inside the **Discord desktop app** — supports ALL quest types including `
 3. Press `Ctrl + Shift + I` to open DevTools
 4. Go to **Console** tab
 5. Type `allow pasting` → press Enter
-6. Paste the script from [`desktop.js`](./desktop.js) and press Enter
+6. Paste the script from [`desktop.js`](.scripts/desktop.js) and press Enter
 
 ---
 
@@ -37,7 +37,7 @@ Runs on **Android** using Kiwi Browser — only supports video quests.
 2. Open [discord.com](https://discord.com) → tap ⋮ → **Desktop site** ✅
 3. Log in to Discord
 4. Tap ⋮ → **Developer Tools** → **Console**
-5. Paste the script from [`android.js`](./android.js) and press Enter
+5. Paste the script from [`android.js`](.scripts/android.js) and press Enter
 
 ---
 
